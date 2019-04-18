@@ -1,0 +1,82 @@
+AS101,Astronomy I: Our Place in the Cosmos,0.5,201401
+AS101,Astronomy I: Our Place in the Cosmos,0.5,201309
+CP102,Information Processing with Microcomputer Systems,0.5,201401
+CP102,Information Processing with Microcomputer Systems,0.5,201309
+CP104,Introduction to Programming,0.5,201401
+CP104,Introduction to Programming,0.5,201309
+CP104,Introduction to Programming,0.5,201405
+CP114,Data Structures,0.5,201401
+CP114,Data Structures,0.5,201405
+CP120,Digital Electronics,0.5,201309
+CP120,Digital Electronics,0.5,201401
+CP200,Electronics Laboratory I,0.25,201309
+CP202,Website Design,0.5,201309
+CP212,Windows Application Programming,0.5,201405
+CP212,Windows Application Programming,0.5,201401
+CP213,Introduction to Object-Oriented Programming,0.5,201309
+CP216,Microprocessor I,0.5,201401
+CP217,Introduction to System Programming,0.5,201401
+CP300,Electronics Laboratory II,0.25,201309
+CP312,Algorithm Design and Analysis I,0.5,201309
+CP315,Introduction to Scientific Computation,0.5,201401
+CP316,Microprocessor Systems & Interfacing,0.5,201401
+CP317,Software Engineering,0.5,201405
+CP317,Software Engineering,0.5,201309
+CP319,Digital System Design,0.5,201309
+CP363,Database I,0.5,201401
+CP364,Data Communications and Networks,0.5,201309
+CP372,Computer Networks,0.5,201401
+CP373,Ethics and Professional Practice in Computer Science,0.5,201401
+CP386,Operating Systems,0.5,201309
+CP411,Computer Graphics,0.5,201309
+CP412,Algorithm Design and Analysis II,0.5,201309
+CP414,Foundations of Computing,0.5,201401
+CP463,Simulation,0.5,201309
+CP464,Selected Topics in Computer Hardware,0.5,201401
+CP465,Database II,0.5,201309
+CP467,Image Processing & Pattern Recognition,0.5,201309
+CP468,Artificial Intelligence,0.5,201309
+CP469,iPhone Application Programming,0.5,201401
+CP471,Introduction to Compiling,0.5,201309
+CP476,Internet Computing,0.5,201401
+CP493,Directed Research Project I,0.5,201309
+CP494,Directed Research Project II,0.5,201309
+CP494,Directed Research Project II,0.5,201401
+CP496,Interdisciplinary Design Project I,0.5,201309
+CP497,Interdisciplinary Design Project II,0.5,201401
+PC120,Digital Electronics,0.5,201309
+PC120,Digital Electronics,0.5,201401
+PC131,Mechanics,0.5,201309
+PC132,Thermodynamics and Waves,0.5,201401
+PC141,Mechanics for the Life Sciences,0.5,201309
+PC141,Mechanics for the Life Sciences,0.5,201405
+PC142,Thermodynamics and Waves for the Life Sciences,0.5,201401
+PC151,Mechanics,0.5,201309
+PC152,Thermodynamics & Waves,0.5,201401
+PC161,Mechanics for Life Sciences,0.5,201309
+PC162,Thermodynamics & Waves,0.5,201401
+PC200,Electronics Laboratory I,0.25,201309
+PC212,Electricity and Magnetism,0.5,201309
+PC221,Analog Electronics I,0.5,201401
+PC235,Classical Mechanics,0.5,201401
+PC236,Fundamentals of Photonics,0.5,201309
+PC237,Optics,0.5,201401
+PC242,Modern Physics,0.5,201401
+PC300,Electronics Laboratory II,0.25,201309
+PC315,Introduction to Scientific Computation,0.5,201401
+PC319,Digital System Design,0.5,201309
+PC321,Quantum Mechanics I,0.5,201309
+PC331,Quantum Mechanics II,0.5,201401
+PC344,Thermodynamics and Statistical Mechanics,0.5,201309
+PC360,Electromagnetic Theory,0.5,201401
+PC364,Data Communications and Networks,0.5,201309
+PC421,Photonics Devices,0.5,201401
+PC454,Solid State Physics,0.5,201309
+PC474,Optical Networks,0.5,201401
+PC475,Design of Control Systems,0.5,201401
+PC481,Fibre Optics,0.5,201309
+PC482,Lasers and Electro-optics,0.5,201309
+PC491,Directed Research Project I,0.5,201309
+PC492,Directed Research Project II,0.5,201401
+PC496,Interdisciplinary Design Project I,0.5,201309
+PC497,Interdisciplinary Design Project II,0.5,201401

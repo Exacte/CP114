@@ -1,0 +1,11 @@
+                I                           
+            /         \
+       E                  S(R)          
+     /   \              /     \                     
+ C(R)     G          O          U  
+ /  \    /  \     /    \      /   \     
+A    D F(R) H(R) M(R)   Q   T      W(R)
+ \             /   \    / \       /   \  
+  B(R)        K     N P(R) R(R)  V     Y         
+             / \                      /  \           
+          J(R)  L(R)               X(R)   Z(R)                                                                  

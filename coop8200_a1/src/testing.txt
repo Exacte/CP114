@@ -1,0 +1,84 @@
+# Question 1
+Enter a year(YYYY): 1996
+True
+
+Enter a year(YYYY): 199
+False
+
+Enter a year(YYYY): 19999
+False
+
+Enter a year(YYYY): 2016
+False
+
+Enter a year(YYYY): hj[3
+False
+
+# Question 2
+Enter a month(MM): 02
+True
+
+Enter a month(MM): 00
+False
+
+Enter a month(MM): 1
+False
+
+Enter a month(MM): 002
+False
+
+Enter a month(MM): 0k
+False
+
+# Question 3
+Enter a day(DD): 30
+True
+
+Enter a day(DD): 00
+False
+
+Enter a day(DD): 32
+False
+
+Enter a day(DD): 311
+False
+
+Enter a day(DD): 3p
+False
+
+# Question 4
+Enter a date(YYY/MM/DD): 1996/12/31
+True
+
+Enter a date(YYY/MM/DD): 199/12/03
+False
+
+Enter a date(YYY/MM/DD): 1996/06/9
+False
+
+Enter a date(YYY/MM/DD): kl78/03/23
+False
+
+# Question 5
+Student ID: 140328200
+Surname Name: Cooper
+Given Name: Mason
+Gender: M
+Birth Date: 1996/12/30
+140328200
+Cooper, Mason
+M, 1996/12/30
+
+Student ID: 140328200
+Surname Name: Cooper
+Given Name: Mason
+Gender: M
+Birth Date: 123/45/6
+Traceback (most recent call last):
+  File "E:\CP114\coop8200_a1\src\Student.py", line 145, in <module>
+    print(get_student())
+  File "E:\CP114\coop8200_a1\src\Student.py", line 143, in get_student
+    student = Student(student_id, surname, forname, gender, birth_date)
+  File "E:\CP114\coop8200_a1\src\Student.py", line 42, in __init__
+    assert valid_date.is_iso_date(birth_date), "Invalid birth date."
+AssertionError: Invalid birth date.
